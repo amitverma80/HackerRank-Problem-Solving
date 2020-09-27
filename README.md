@@ -41,7 +41,7 @@ Solution to <a href="https://www.hackerrank.com/domains/sql?badge_type=sql">Prob
   <tr>
     <td>Medium</td>
     <td><a href="https://www.hackerrank.com/challenges/mark-and-toys/problem">Mark and Toys</a></td>
-    <td>30</td>
+    <td>35</td>
     <td>GoLang</td>
     <td><a href="https://github.com/amitverma80/HackerRank-Problem-Solving/blob/master/GoLang/Mark%20and%20Toys.go">Solution</a></td>
   </tr>
